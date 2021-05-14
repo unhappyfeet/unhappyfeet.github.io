@@ -9,7 +9,7 @@ Sources:
  - City of Providence Zoning Ordinance
  - City of Providence Parcel / Zone map
 
-<details markdown="block">
+<details>
 <summary>fdasfda</summary>
  
 The house at 175 Governor is in an R-3 zone, defined as follows:
