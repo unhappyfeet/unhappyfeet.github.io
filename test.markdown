@@ -9,7 +9,7 @@ Sources:
  - City of Providence Zoning Ordinance
  - City of Providence Parcel / Zone map
 
-<details>
+<details markdown="block">
 <summary>fdasfda</summary>
  
 The house at 175 Governor is in an R-3 zone, defined as follows:
@@ -47,7 +47,8 @@ In Section 2100 on Enforcement (page 237), it says:
 >C.  The City Solicitor will institute an injunction, abatement, or any other appropriate action to prevent, enjoin, abate, or remove such violation. The remedies provided for herein are cumulative and not exclusive and in addition to any other remedies provided by law. 
 >
 >D.  Any person or corporation, whether as principal, agent, employee or otherwise, who violates or is the owner of property in violation of any of the provisions of this Ordinance will be fined up to $500.00 for each offense, with such fine to inure to the City. Each day of the existence of any violation is deemed a separate offense. 
-</summary>
+ 
+</details>
 
 ## Violations
 
